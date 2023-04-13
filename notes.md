@@ -39,4 +39,6 @@
 * git commit -m "Another commit message"
 * git push
 
-# Cover some stuff...
+# The process
+
+* 
