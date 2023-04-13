@@ -32,3 +32,9 @@
     * git config --global user.name "Your name here"
     * git config --global user.email "Your email here"
 
+# Once you have committed your files, it gets easier
+
+* Make a change in a file and save it... Kyle.
+* git add .
+* git commit -m "Another commit message"
+* git push
