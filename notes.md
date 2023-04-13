@@ -24,3 +24,11 @@
     * git add . will track **ALL** files in the folder
     * git add index.js will only track index.js
 
+* git commit -m "This is my first commit"
+
+* If you get a message about username and email, check it here:
+    * git config --global user.name
+    * git config --global user.email
+    * git config --global user.name "Your name here"
+    * git config --global user.email "Your email here"
+
